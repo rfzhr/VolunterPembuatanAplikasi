@@ -5,3 +5,4 @@ Repositori ini digunakan sebagai sayembara pencarian volunter untuk pembuatan ap
 
 Berikut daftar volunter yang diterima:
 * Oon Arfiandwi, [oo.or.id](https://oo.or.id).
+* Arief Zuhri, [GitHub](https://github.com/ariefzuhri).
